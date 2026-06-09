@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+venv/
+data_generator/output/
+*.csv
+__pycache__/
+.dbt/
